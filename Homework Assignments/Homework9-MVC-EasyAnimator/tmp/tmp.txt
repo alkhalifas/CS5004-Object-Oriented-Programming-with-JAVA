@@ -1,0 +1,13 @@
+Create Rectangle R with center at Point2D.Double[0.0, 0.0], width of 0, height of 0.
+Transform R from location (200, 200) to (200, 200) and color java.awt.Color[r=255,g=0,b=0] to java.awt.Color[r=255,g=0,b=0] over t=1 to 10.
+Transform R from location (200, 200) to (300, 300) and color java.awt.Color[r=255,g=0,b=0] to java.awt.Color[r=255,g=0,b=0] over t=10 to 50.
+Transform R from location (300, 300) to (300, 300) and color java.awt.Color[r=255,g=0,b=0] to java.awt.Color[r=255,g=0,b=0] over t=50 to 51.
+Transform R from location (300, 300) to (300, 300) and color java.awt.Color[r=255,g=0,b=0] to java.awt.Color[r=255,g=0,b=0] over t=51 to 70.
+Transform R from location (300, 300) to (200, 200) and color java.awt.Color[r=255,g=0,b=0] to java.awt.Color[r=255,g=0,b=0] over t=70 to 100.
+
+Create Ellipse C with center at Point2D.Double[0.0, 0.0], width of 0, height of 0.
+Transform C from location (440, 70) to (440, 70) and color java.awt.Color[r=0,g=0,b=255] to java.awt.Color[r=0,g=0,b=255] over t=6 to 20.
+Transform C from location (440, 70) to (440, 250) and color java.awt.Color[r=0,g=0,b=255] to java.awt.Color[r=0,g=0,b=255] over t=20 to 50.
+Transform C from location (440, 250) to (440, 370) and color java.awt.Color[r=0,g=0,b=255] to java.awt.Color[r=0,g=170,b=85] over t=50 to 70.
+Transform C from location (440, 370) to (440, 370) and color java.awt.Color[r=0,g=170,b=85] to java.awt.Color[r=0,g=255,b=0] over t=70 to 80.
+Transform C from location (440, 370) to (440, 370) and color java.awt.Color[r=0,g=255,b=0] to java.awt.Color[r=0,g=255,b=0] over t=80 to 100.

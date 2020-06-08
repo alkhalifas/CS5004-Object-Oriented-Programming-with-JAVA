@@ -1,0 +1,56 @@
+Create Rectangle disk1 with center at Point2D.Double[0.0, 0.0], width of 0, height of 0.
+Transform disk1 from location (190, 180) to (190, 180) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=1 to 1.
+Transform disk1 from location (190, 180) to (190, 180) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=1 to 25.
+Transform disk1 from location (190, 180) to (190, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=25 to 35.
+Transform disk1 from location (190, 50) to (190, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=35 to 36.
+Transform disk1 from location (190, 50) to (490, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=36 to 46.
+Transform disk1 from location (490, 50) to (490, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=46 to 47.
+Transform disk1 from location (490, 50) to (490, 240) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=47 to 57.
+Transform disk1 from location (490, 240) to (490, 240) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=57 to 89.
+Transform disk1 from location (490, 240) to (490, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=89 to 99.
+Transform disk1 from location (490, 50) to (490, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=99 to 100.
+Transform disk1 from location (490, 50) to (340, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=100 to 110.
+Transform disk1 from location (340, 50) to (340, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=110 to 111.
+Transform disk1 from location (340, 50) to (340, 210) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=111 to 121.
+Transform disk1 from location (340, 210) to (340, 210) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=121 to 153.
+Transform disk1 from location (340, 210) to (340, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=153 to 163.
+Transform disk1 from location (340, 50) to (340, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=163 to 164.
+Transform disk1 from location (340, 50) to (190, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=164 to 174.
+Transform disk1 from location (190, 50) to (190, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=174 to 175.
+Transform disk1 from location (190, 50) to (190, 240) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=175 to 185.
+Transform disk1 from location (190, 240) to (190, 240) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=185 to 217.
+Transform disk1 from location (190, 240) to (190, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=217 to 227.
+Transform disk1 from location (190, 50) to (190, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=227 to 228.
+Transform disk1 from location (190, 50) to (490, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=228 to 238.
+Transform disk1 from location (490, 50) to (490, 50) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=238 to 239.
+Transform disk1 from location (490, 50) to (490, 180) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=49,b=90] over t=239 to 249.
+Transform disk1 from location (490, 180) to (490, 180) and color java.awt.Color[r=0,g=49,b=90] to java.awt.Color[r=0,g=255,b=0] over t=249 to 257.
+Transform disk1 from location (490, 180) to (490, 180) and color java.awt.Color[r=0,g=255,b=0] to java.awt.Color[r=0,g=255,b=0] over t=257 to 302.
+
+Create Rectangle disk2 with center at Point2D.Double[0.0, 0.0], width of 0, height of 0.
+Transform disk2 from location (167, 210) to (167, 210) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=1 to 1.
+Transform disk2 from location (167, 210) to (167, 210) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=1 to 57.
+Transform disk2 from location (167, 210) to (167, 50) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=57 to 67.
+Transform disk2 from location (167, 50) to (167, 50) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=67 to 68.
+Transform disk2 from location (167, 50) to (317, 50) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=68 to 78.
+Transform disk2 from location (317, 50) to (317, 50) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=78 to 79.
+Transform disk2 from location (317, 50) to (317, 240) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=79 to 89.
+Transform disk2 from location (317, 240) to (317, 240) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=89 to 185.
+Transform disk2 from location (317, 240) to (317, 50) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=185 to 195.
+Transform disk2 from location (317, 50) to (317, 50) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=195 to 196.
+Transform disk2 from location (317, 50) to (467, 50) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=196 to 206.
+Transform disk2 from location (467, 50) to (467, 50) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=206 to 207.
+Transform disk2 from location (467, 50) to (467, 210) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=6,g=247,b=41] over t=207 to 217.
+Transform disk2 from location (467, 210) to (467, 210) and color java.awt.Color[r=6,g=247,b=41] to java.awt.Color[r=0,g=255,b=0] over t=217 to 225.
+Transform disk2 from location (467, 210) to (467, 210) and color java.awt.Color[r=0,g=255,b=0] to java.awt.Color[r=0,g=255,b=0] over t=225 to 302.
+
+Create Rectangle disk3 with center at Point2D.Double[0.0, 0.0], width of 0, height of 0.
+Transform disk3 from location (145, 240) to (145, 240) and color java.awt.Color[r=11,g=45,b=175] to java.awt.Color[r=11,g=45,b=175] over t=1 to 1.
+Transform disk3 from location (145, 240) to (145, 240) and color java.awt.Color[r=11,g=45,b=175] to java.awt.Color[r=11,g=45,b=175] over t=1 to 121.
+Transform disk3 from location (145, 240) to (145, 50) and color java.awt.Color[r=11,g=45,b=175] to java.awt.Color[r=11,g=45,b=175] over t=121 to 131.
+Transform disk3 from location (145, 50) to (145, 50) and color java.awt.Color[r=11,g=45,b=175] to java.awt.Color[r=11,g=45,b=175] over t=131 to 132.
+Transform disk3 from location (145, 50) to (445, 50) and color java.awt.Color[r=11,g=45,b=175] to java.awt.Color[r=11,g=45,b=175] over t=132 to 142.
+Transform disk3 from location (445, 50) to (445, 50) and color java.awt.Color[r=11,g=45,b=175] to java.awt.Color[r=11,g=45,b=175] over t=142 to 143.
+Transform disk3 from location (445, 50) to (445, 240) and color java.awt.Color[r=11,g=45,b=175] to java.awt.Color[r=11,g=45,b=175] over t=143 to 153.
+Transform disk3 from location (445, 240) to (445, 240) and color java.awt.Color[r=11,g=45,b=175] to java.awt.Color[r=0,g=255,b=0] over t=153 to 161.
+Transform disk3 from location (445, 240) to (445, 240) and color java.awt.Color[r=0,g=255,b=0] to java.awt.Color[r=0,g=255,b=0] over t=161 to 302.

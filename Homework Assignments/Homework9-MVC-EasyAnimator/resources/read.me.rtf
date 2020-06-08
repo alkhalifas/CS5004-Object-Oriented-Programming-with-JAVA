@@ -1,0 +1,93 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww33400\viewh17980\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # Assignment 8: Animation in Motion\
+\
+> This assignment encompasses the model, view, and controller packages for the main EasyAnimator. The previous assignment had included only the model consisting of shapes, motions, as well as a simple animation list. Some of the changes that were included in this version of the assignment were the views and controller classes. The model itself changed since the last version. With three views needed, much of the model was abstracted to avoid repetition of code, and the use of enums were implemented to reduce repetition as well. The biggest change in the model was the use of processes which are linked hash lists used to organize the shapes and their actions. These are populated by the AnimationBuilder class that was provided in the starter code. The model was modified in its overall structure to accommodate for the rotation motion that has since been removed from the assignment.\
+\
+## DESCRIPTION OF CLASSES:\
+\
+### Model\
+\
+#### AbstractShape.java\
+\
+> The abstract shape class represents the abstracted class for chapel within the animation. One of the requirements that Clark had mentioned was the flexibility in being able to incorporate new shapes if needed. The abstract class was designed to be flexible enough to incorporate any shape. The constructor uses a shapeType, dimensions, coordinates, and a color to create a shape.\
+\
+\
+### AnimationModel.java\
+\
+> The animation model class represents the actual model of a process within the animation. A linked hash list is created to store the processes along with a list of shapes. The constructor uses the processes and shapes to create a model.\
+\
+### GeneralProcess.java\
+\
+> This class represents the actual process builder that takes into account all the attributes of a shape both before and after a type of motion occurs. The constructor takes these arguments and creates a general process which only constructs under a given set of conditions for the attributes.\
+\
+### SuperGeneralProcess.java\
+\
+> This class extends the general process class and implements a rotation class. The ability to rotate objects was attempted but is not yet successful. This had been part of the original assignment, but has since been removed. I will keep attempting to get this in order.\
+\
+### Controller\
+\
+#### Controller.java\
+\
+> This class is the controller class that represents the connection between the model and view. Primarily focusing on the PlayBack view, the controller allows for communication between the views and models by monitoring the changes through listeners. The listeners parse for changes within a number of fields and handle event changes accordingly.\
+\
+#### Keyframe.java\
+\
+> This class is the class that represents the key frames that organize the processes for objects. Keyframes are used alongside the times, coordinates, dimensions, as well as the color of all shapes. \
+\
+### View:\
+\
+#### TextView.java\
+\
+> This class represents the view output when it comes to text by creating a large string and outputs what the shapes are doing, at what time, and what the coordinate changes are if any.\
+\
+#### SVGAnimationView.java\
+\
+> This class represents the view in SVG for a full animation which ingests the lists of processes and shapes and converts the output to an SVG format.\
+\
+#### PlayBackView.java\
+\
+> This class is responsible for allowing the user to use the Playback view which opens an interactive GUI for the users. This class holds all the functionality using the Frame library.\
+\
+#### VisualAnimationView.java\
+\
+> This class is responsible for the visual view. This class creates a display for the animation, and then determines the shape of the view needed based on the changes in the animation. \
+\
+#### InputHandler.java\
+\
+> Coming soon with part 3!\
+\
+#### FrameChangeEvent.java\
+\
+> Coming soon with part 3!\
+\
+## HOW TO USE THE PROGRAM:\
+\
+#### This program can be used via the terminal command line. The arguments that can be made here include the input value (\'93-in\'94), the view (\'93-view\'94), the output value (\'93-out\'94), as well as the speed (\'93-speed\'94). The possible views are either a text based view using \'93text, or a visual view using \'93visual\'94, or finally a SVG formatted file using \'93svg\'94. Although not fully tested yet, the option \'91playback\'92 is also available.\
+\
+### Text View Example:\
+\
+	 java -jar Homework_8-9.4.jar -view text -in toh-3.txt -out toh-3-output.txt\
+\
+### Visual View Example:\
+\
+	 java -jar Homework_8-9.4.jar -view visual -in toh-3.txt -out toh-3-output.txt -speed 20\
+\
+### SVG View Example:\
+\
+	 java -jar Homework_8-9.4.jar -view svg -in toh-3.txt -out toh-3-output.svg -speed 20\
+\
+### PlayBack View Example:\
+\
+	java -jar Homework_8-9.4.jar -view playback -in toh-3.txt\
+\
+\
+\
+\
+\
+}
