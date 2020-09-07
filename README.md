@@ -12,7 +12,7 @@ My projects and assignments for CS5004 Object-Oriented Programming at Northeaste
 
 #### Homework Assignments:
 1. Homework1 - Vector3D
-2. Homework2 - GoogleaMapTiles
+2. Homework2 - GoogleMapTiles
 3. Homework3 - AbstractChessPieces
 4. Homework4 - Polynomial Lists
 5. Homework5 - Questionnaire
